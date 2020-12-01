@@ -1,0 +1,25 @@
+.unitWrapper {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  width: 395px;
+  height: 400px;
+}
+
+.unit {
+  border: 1px rgb(146, 146, 146) solid;
+  width: 19px;
+  height: 19px;
+}
+
+.active {
+  background-color: green;
+}
+
+.tail {
+  background-color: greenyellow;
+}
+.apple {
+  background-color: rgb(255, 47, 47);
+}
